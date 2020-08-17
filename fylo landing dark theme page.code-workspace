@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Base Aparel"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Fylo"
+	}
+}
